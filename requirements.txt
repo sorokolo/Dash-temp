@@ -4,4 +4,5 @@ dash~=1.19.0
 configparser~=5.0.2
 sqlalchemy~=1.4.4
 werkzeug~=1.0.1
+dash_daq
 gunicorn
